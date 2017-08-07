@@ -1,3 +1,3 @@
-# dstar_global_planner
+# dstar_lite_global_planner
 
 dstar_lite算法的ros实现，可作为global_planner的插件插入到ros的导航系统中。
